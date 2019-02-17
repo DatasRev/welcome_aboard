@@ -14,7 +14,8 @@ tehát nem rendszerváltozó.
 Én a Pythont-t https://www.python.org/downloads/ a C:\Python mappába szoktam feltelepíteni egyébként.
 3. Felrakni a Visual Studio Code programot.
 https://code.visualstudio.com/download
-4. Mobilra feltenni a SoloLearn applikációt
+4. Regisztrálni a DataCamp-re (www.datacamp.com), mivel sokat használjuk, rengeteg képzése van, és ezek egy része ingyen is elérhető.
+5. Mobilra feltenni a SoloLearn applikációt
 
 Gyakori Hibaforrások:
 1. Többféle Python vagy Anaconda van a gépeden:
