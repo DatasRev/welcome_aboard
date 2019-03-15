@@ -1,7 +1,8 @@
 # welcome_aboard
 Frequently Asked Questions for new members and introductory steps needed to join us.
 
-Bemutatkozó PowerPoint prezentáció helye:
+Bemutatkozó PowerPoint prezentáció:
+https://github.com/DatasRev/pr/blob/master/190227_budapest_py_meetup/datarev_intro_final.pdf
 
 Telepítés
 Érdemes figyelni a 32 bites és 64 bites verziók közötti különbségre bármit telepítesz, lehet hogy a default link a 32 bites telepítőre mutat.
