@@ -1,10 +1,14 @@
 # welcome_aboard
 Frequently Asked Questions for new members and introductory steps needed to join us.
 
-Bemutatkozó PowerPoint prezentáció:
+For new members:
+New members are always welcome to the meetings. However, please prepare and read the materials in this repo and arrive with a working Anaconda environment (or equivalent). In case of any upcoming technical issues the rule of thumb is that if it takes more than 5 minutes to fix it, we will not use up this time from the workshop. In case of errors, if you describe what your problem is, we will try to point you in the right direction via links, tips, etc.
+
+
+Bemutatkozó PowerPoint prezentáció/Our promo(introduction) ppt:
 https://github.com/DatasRev/pr/blob/master/190227_budapest_py_meetup/datarev_intro_final.pdf
 
-Telepítés
+Telepítés/Installing Anaconda
 Érdemes figyelni a 32 bites és 64 bites verziók közötti különbségre bármit telepítesz, lehet hogy a default link a 32 bites telepítőre mutat.
 https://www.anaconda.com/download/
 1. Felrakni a Miniconda v. Anaconda programot  a C:\ Anaconda mappába (400mb vagy kb. 3000 mb) - a telepítés végén ne pipáljuk be azt, hogy add to PATH. 
